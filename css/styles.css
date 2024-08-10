@@ -59,6 +59,7 @@ text-decoration: underline;
 }
 
 .link-contact {
+    font-style: normal;
     font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -73,13 +74,16 @@ text-decoration: none;
     color: #404bbf;
 }
 
+.section-title {
+    background-color: #2e2f42;
+}
+
 .title-one {
     font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
 letter-spacing: 0.02em;
 color: #fff;
-background: #2e2f42;
 }
 
 .button-type {
@@ -183,7 +187,7 @@ color: #4d5ae5;
 text-decoration: none;
 }
 
-.part-title-name-studio {
+.part-title-studio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
