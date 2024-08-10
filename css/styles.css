@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", "Raleway", sans-serif;
     background-color: #fff;
-    color: #2e2f42;
+    color: #434455;
     list-style-type: none;
     text-decoration-line: none;
 
@@ -63,7 +63,6 @@ text-decoration: none;
 font-size: 56px;
 line-height: 1.07143;
 letter-spacing: 0.02em;
-text-align: center;
 color: #fff;
 background: #2e2f42;
 }
@@ -88,16 +87,15 @@ background: #404bbf;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
-text-align: center;
 background: #f4f4fd;
 }
 
 .main-title {
+    color: #2e2f42;
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
-text-align: center;
 }
 
 .main-title-text {
@@ -113,27 +111,26 @@ letter-spacing: 0.02em;
 }
 
 .name-persons {
+    color: #2e2f42;
     font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: center;
 }
 
 .job-persons {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
 color: #434455;
 }
 
 .main-portfolio {
+    color: #2e2f42;
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
-text-align: center;
 }
 
 .main-portfolio-photo {
@@ -142,6 +139,7 @@ text-align: center;
 }
 
 .main-portfolio-title {
+    color: #2e2f42;
     font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -153,7 +151,6 @@ letter-spacing: 0.02em;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
 }
 
 .header-name {
