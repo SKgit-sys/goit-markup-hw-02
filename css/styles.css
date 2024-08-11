@@ -1,18 +1,14 @@
 body {
-    font-family: "Roboto" "Raleway", sans-serif;
+    font-family: "Roboto", "Raleway", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
     text-decoration: none;
     list-style-type: none;
 }
 
-
-
 ul {
     list-style-type: none;
 }
-
-
 
 .title-name {
     font-family: "Raleway", sans-serif;
@@ -68,8 +64,6 @@ text-decoration: none;
     color: #404bbf;
 }
 
-
-
 .section-title {
     background-color: #2e2f42;
 }
@@ -91,7 +85,6 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 cursor: pointer;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 .button-type:hover {
@@ -100,8 +93,6 @@ background-color: #404bbf;
 .button-type:focus {
     background-color: #404BBF;
 }
-
-
 
 .main-title {
     color: #2e2f42;
@@ -159,8 +150,6 @@ letter-spacing: 0.02em;
     color: #434455;
     }
 
-
-
     .main-portfolio {
         font-weight: 700;
 font-size: 36px;
@@ -189,8 +178,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
     }
-
-
 
     .footer-page {
         background-color: #2e2f42;
